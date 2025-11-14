@@ -12,7 +12,6 @@ public class Venu
 
 System.out.pirntln("i am using git revart");
 
-afafadad
 
 }
 }
