@@ -14,7 +14,5 @@ System.out.pirntln("i am using git revart");
 
 afafadad
 
-venu venu venu
-
 }
 }
