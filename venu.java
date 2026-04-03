@@ -17,7 +17,12 @@ System.out.println("i miss you ra");
 
     System.out.println("i love you to ra");
 
+<<<<<<< Updated upstream
 system.out.println("i am git stash");
+=======
+System.out.println("");
+
+>>>>>>> Stashed changes
 
 
 }
